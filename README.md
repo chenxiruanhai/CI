@@ -3,7 +3,7 @@
 
 # edhroyal的专栏
 * [GIT & REPO & GERRIT （一）](http://blog.csdn.net/edhroyal/article/details/9023555) 
-* [GIT & REPO & GERRIT （二）](hhttp://blog.csdn.net/edhroyal/article/details/9039501) 
+* [GIT & REPO & GERRIT （二）](http://blog.csdn.net/edhroyal/article/details/9039501) 
 * [GIT & REPO & GERRIT （三）](http://blog.csdn.net/edhroyal/article/details/9167623) 
 * [GIT & REPO & GERRIT （四）](http://blog.csdn.net/edhroyal/article/details/9187727)
 
