@@ -13,3 +13,6 @@
 
 # Jenkins
 * [官网](https://jenkins.io/doc/)
+ 
+# 简书 
+ * [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
