@@ -19,7 +19,6 @@
 
 ### 简书 
  * [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
-
-
+### [Linux Note](./linux-note.md)
 ### docker
  * [从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
