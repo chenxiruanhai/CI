@@ -2,9 +2,9 @@
 * 收集整理持续集成相关技术文章
 
 # edhroyal的专栏
-* [GIT & REPO & GERRIT （一）](http://blog.csdn.net/edhroyal/article/details/9023555) 
-* [GIT & REPO & GERRIT （二）](http://blog.csdn.net/edhroyal/article/details/9039501) 
-* [GIT & REPO & GERRIT （三）](http://blog.csdn.net/edhroyal/article/details/9167623) 
+* [GIT & REPO & GERRIT （一）](http://blog.csdn.net/edhroyal/article/details/9023555)
+* [GIT & REPO & GERRIT （二）](http://blog.csdn.net/edhroyal/article/details/9039501)
+* [GIT & REPO & GERRIT （三）](http://blog.csdn.net/edhroyal/article/details/9167623)
 * [GIT & REPO & GERRIT （四）](http://blog.csdn.net/edhroyal/article/details/9187727)
 
 # git
@@ -17,7 +17,9 @@
 # 简书 
  * [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
  * <img src="http://upload.jianshu.io/collections/images/246690/gitlab-logo-square.png?imageMogr2/auto-orient/strip|imageView2/1/w/40/h/40" width="20px"/> [gitlab](http://www.jianshu.com/c/602df50635e6)
- 
+
 
 # docker
  * [从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
+
+# [Android 自动化测试](./android自动化测试.md)
