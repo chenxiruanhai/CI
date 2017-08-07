@@ -3,18 +3,19 @@
 - [Google 测试支持库 ： AndroidJUnitRunner、Espresso、UI Automator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#features)
 - [Testing Apps on Android](https://developer.android.google.cn/training/testing/index.html)
 
-### 常用工具：money、EasyMonkey、MonkeyRunner、Mockito、powermock、UIAutomator(2)、Roboletric、Robotium、Espresso、Selendroid、Appium、Calabash、Athrun
+### 常用工具：money、EasyMonkey、MonkeyRunner、Mockito、powermock、AssertJ、UIAutomator(2)、Roboletric、Robotium、Espresso、Selendroid、Appium、Calabash、Athrun
 
 ### 分类：
 
 | 白盒        | 黑盒   |
 | :--------:   | :-----:  |
-|[AndroidJUnitRunner](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#AndroidJUnitRunner)<br/>[Mockito](http://mockito.org/)<br/>  [powermock](https://github.com/powermock/powermock<br/>)<br/>[Roboletric](http://robolectric.org/)<br/> [Robotium](https://github.com/RobotiumTech/robotium)<br/>[Espresso](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#Espresso)<br/>[Selendroid](http://selendroid.io/) | [money](https://developer.android.google.cn/studio/test/monkey.html)<br/>[MonkeyRunner](https://developer.android.google.cn/studio/test/monkeyrunner/index.html)<br/>[UIAutomator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#UIAutomator)<br/>[Appium](http://appium.io/)<br/>[Calabash](http://calaba.sh/)<br/>[Athrun](http://code.taobao.org/p/athrun/wiki/index/)|
+|[AssertJ](http://joel-costigliola.github.io/assertj/assertj-core.html)<br/>[AndroidJUnitRunner](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#AndroidJUnitRunner)<br/>[Mockito](http://mockito.org/)<br/>  [powermock](https://github.com/powermock/powermock<br/>)<br/>[Roboletric](http://robolectric.org/)<br/> [Robotium](https://github.com/RobotiumTech/robotium)<br/>[Espresso](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#Espresso)<br/>[Selendroid](http://selendroid.io/) | [money](https://developer.android.google.cn/studio/test/monkey.html)<br/>[MonkeyRunner](https://developer.android.google.cn/studio/test/monkeyrunner/index.html)<br/>[UIAutomator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#UIAutomator)<br/>[Appium](http://appium.io/)<br/>[Calabash](http://calaba.sh/)<br/>[Athrun](http://code.taobao.org/p/athrun/wiki/index/)|
 
 #### 实践
  - https://blog.desmondyao.com/mockito-roboletric-test/
 
 #### 各工具差异
+- AssertJ:Java断言测试框架、能丰富且易于使用，用于替换JUnit的Assert烂API。
 - Robotium、Espresso、robolectric、Selendroid ：需要source code，与被测App在同一进程。执行速度快。
 - MonkeyRunner：不需要源码、对google官方工具money的封装。
 - UIAutomator:不需要source code、google提供的黑盒测试工具与APP在不同进程,但不支持WebView。
