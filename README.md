@@ -3,6 +3,7 @@
 
 ## git & repo
 ### git
+* [git常用命令](./git常用命令.md)
 * [git 工作流指南](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
 * [Github 帮助文档》 中文翻译](https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials)
 * <img src="http://upload.jianshu.io/collections/images/246690/gitlab-logo-square.png?imageMogr2/auto-orient/strip|imageView2/1/w/40/h/40" width="20px"/> [gitlab](http://www.jianshu.com/c/602df50635e6)
