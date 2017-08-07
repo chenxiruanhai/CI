@@ -19,6 +19,7 @@
 
 ### Jenkins
 * [官网](https://jenkins.io/doc/)
+* [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 
 ### [Android 自动化测试工具汇总](./android自动化测试工具汇总.md)
 

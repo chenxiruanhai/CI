@@ -27,10 +27,7 @@
 TDD
 </center>
 
-#### 代码覆盖率
+#### [代码覆盖率](https://baike.baidu.com/item/%E4%BB%A3%E7%A0%81%E8%A6%86%E7%9B%96%E6%B5%8B%E8%AF%95/8642107?fr=aladdin)
 | Java        | JavaScript  |.Net|C/C++|Ruby|
 | :--------:   | :-----:  |:-----:  |:-----:  |:-----:  |
 | [JaCoCo](http://www.jacoco.org/jacoco/)<br/>[Emma](http://emma.sourceforge.net/)<br/>[Coverlipse](https://sourceforge.net/projects/coverlipse/)<br/>[Cobrertura](http://cobertura.github.io/cobertura/)|[JSCoverage](http://siliconforks.com/jscoverage/)| [ColverNET](http://www.cenqua.com/clover.net/)<br/>[NCover](http://ncover.org/)<br/>[PartCover](https://github.com/sawilde/partcover.net4)<br/>[AQtime](https://support.smartbear.com/viewarticle/42954/)|[Bullseye Coverage](http://www.bullseye.com/)|[rcov](https://github.com/relevance/rcov)|
-
-#### CI
-- Jenkins
