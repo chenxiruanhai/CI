@@ -1,6 +1,6 @@
 ## Android 自动化测试
 #### Google
-- [Google 测试支持库:AndroidJUnitRunner、Espresso、UI Automator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#features)
+- [Google 测试支持库 ： AndroidJUnitRunner、Espresso、UI Automator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#features)
 - [Testing Apps on Android](https://developer.android.google.cn/training/testing/index.html)
 
 ### 常用工具：money、EasyMonkey、MonkeyRunner、Mockito、powermock、UIAutomator(2)、Roboletric、Robotium、Espresso、Selendroid、Appium、Calabash、Athrun
@@ -28,11 +28,9 @@ TDD
 </center>
 
 #### 代码覆盖率
- - Java:[JaCoCo](http://www.jacoco.org/jacoco/)、Emma、Coverlipse、Cobrertura
- - Javascript:JSCoverage
- - .Net：ColverNET、PartCover、AQtime
- - C/C++:Bullseye Coverage
- - Ruby:rcov
+| Java        | JavaScript  |.Net|C/C++|Ruby|
+| :--------:   | :-----:  |:-----:  |:-----:  |:-----:  |
+| [JaCoCo](http://www.jacoco.org/jacoco/)<br/>[Emma](http://emma.sourceforge.net/)<br/>[Coverlipse](https://sourceforge.net/projects/coverlipse/)<br/>[Cobrertura](http://cobertura.github.io/cobertura/)|[JSCoverage](http://siliconforks.com/jscoverage/)| [ColverNET](http://www.cenqua.com/clover.net/)<br/>[NCover](http://ncover.org/)<br/>[PartCover](https://github.com/sawilde/partcover.net4)<br/>[AQtime](https://support.smartbear.com/viewarticle/42954/)|[Bullseye Coverage](http://www.bullseye.com/)|[rcov](https://github.com/relevance/rcov)|
 
 #### CI
 - Jenkins

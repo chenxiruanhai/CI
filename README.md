@@ -1,5 +1,9 @@
 # 本仓库主要用于收集DevOps相关技术
-#### 技术是第一生产力，解放重复的劳动，努力实现自动化。
+#### 技术是第一生产力，解放重复的劳动，努力实现自动化的软件生产。
+### DevOps
+ - [从集装箱历史看DevOps的发展进程](http://insights.thoughtworkers.org/process-of-devops-development/)
+ - [DevOps发展的9个趋势](http://insights.thoughtworkers.org/nine-trends-of-devops/)
+ - [实例化DevOps原则](http://insights.thoughtworkers.org/instantiate-the-principles-of-devops/)
 
 ## git & repo
 ### git
