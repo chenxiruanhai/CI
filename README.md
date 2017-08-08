@@ -1,5 +1,10 @@
 # 本仓库主要用于收集DevOps相关技术
 #### 技术是第一生产力，解放重复的劳动，努力实现自动化的软件生产。
+### [从此刻起爱上命令行] 
+ - [几个有趣的命令](http://os.51cto.com/art/201304/390059.htm)
+ - [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
+ - [Vim 键盘图](http://blog.csdn.net/zhlh_xt/article/details/52458672)
+ - [Linux 命令大全](http://man.linuxde.net/)
 ### DevOps
  - [从集装箱历史看DevOps的发展进程](http://insights.thoughtworkers.org/process-of-devops-development/)
  - [DevOps发展的9个趋势](http://insights.thoughtworkers.org/nine-trends-of-devops/)
@@ -23,8 +28,6 @@
 
 ### [Android 自动化测试工具汇总](./android自动化测试工具汇总.md)
 
-### 简书 
- * [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
 ### [Linux Note](./linux-note.md)
 ### docker
  * [从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
