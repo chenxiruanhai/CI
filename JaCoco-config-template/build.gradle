@@ -1,0 +1,24 @@
+apply plugin: 'com.android.application'
+apply from: "$rootDir/coverage.gradle"
+//...
+
+android {
+//...
+
+   buildTypes {
+//...
+           debug {
+               testCoverageEnabled true //we use "debug" build type for test coverage (can be other)
+           }
+   }
+//...
+   testOptions {
+       unitTests.returnDefaultValues = true
+       unitTests.all {
+           jacoco {
+               includeNoLocationClasses = true
+           }
+       }
+   }
+//...
+}
