@@ -6,8 +6,7 @@ apply plugin: 'jacoco'
  */
 task jacocoTestReport(type: JacocoReport, dependsOn: ['testDebugUnitTest', 'createDebugCoverageReport']) { //we use "debug" build type for test coverage (can be other)
     group = "reporting"
-    description = "Generate unified Jacoco code coverage re
-    port"
+    description = "Generate unified Jacoco code coverage report"
 
     reports {
         xml.enabled = false
