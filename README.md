@@ -1,6 +1,6 @@
 # 本仓库主要用于收集DevOps相关技术
 #### 技术是第一生产力，解放重复的劳动，努力实现自动化的软件生产。
-### [从此刻起爱上命令行] 
+### [从此刻起爱上命令行]
  - [几个有趣的命令](http://os.51cto.com/art/201304/390059.htm)
  - [为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)
  - [Vim 键盘图](http://blog.csdn.net/zhlh_xt/article/details/52458672)
@@ -26,7 +26,7 @@
 * [官网](https://jenkins.io/doc/)
 * [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 
-### [Android 自动化测试工具汇总](./android自动化测试工具汇总.md)
+### [深入浅出Android 自动化测试](./深入浅出Android 自动化测试.md)
 
 ### [Linux Note](./linux-note.md)
 ### docker
