@@ -26,7 +26,7 @@
 * [官网](https://jenkins.io/doc/)
 * [Jenkins Best Practices](https://wiki.jenkins.io/display/JENKINS/Jenkins+Best+Practices)
 
-### [深入浅出Android 自动化测试](./深入浅出Android 自动化测试.md)
+### [深入浅出Android 自动化测试](https://github.com/chenxiruanhai/Devops/blob/master/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%20%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95.md)
 
 ### [Linux Note](./linux-note.md)
 ### docker
