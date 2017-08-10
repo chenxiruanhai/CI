@@ -7,7 +7,7 @@
 <br/>
 
 ## 一、常用工具
- - money、EasyMonkey、MonkeyRunner、Mockito、powermock、AssertJ、UIAutomator(2)、Roboletric、Robotium、Espresso、Selendroid、Appium、Calabash、Athrun
+ - monkey、EasyMonkey、MonkeyRunner、Mockito、powermock、AssertJ、UIAutomator(2)、Roboletric、Robotium、Espresso、Selendroid、Appium、Calabash、Athrun
  - Google
  - [Google 测试支持库 ：
   - [AndroidJUnitRunner、Espresso、UI Automator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#features)
@@ -26,6 +26,7 @@
 |[JUnit](https://baike.baidu.com/item/junit/1211849?fr=aladdin)<br/>[AndroidJUnitRunner](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#AndroidJUnitRunner)<br/>[Mockito](http://mockito.org/)<br/>  [powermock](https://github.com/powermock/powermock<br/>)<br/>[Roboletric](http://robolectric.org/)<br/>| [money](https://developer.android.google.cn/studio/test/monkey.html)<br/>[MonkeyRunner](https://developer.android.google.cn/studio/test/monkeyrunner/index.html)<br/>[UIAutomator](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#UIAutomator)<br/>[Robotium](https://github.com/RobotiumTech/robotium)<br/>[Espresso](https://developer.android.google.cn/topic/libraries/testing-support-library/index.html#Espresso)<br/>[Selendroid](http://selendroid.io/architecture.html) <br/>[Appium](http://appium.io/)<br/>[Calabash](http://calaba.sh/)<br/>[Athrun](http://code.taobao.org/p/athrun/wiki/index/)<br/>人肉、硬件辅助测试|
 </center>
 ### 2、根据具体实现分类
+
 ### 2.1、基于Android Java Instrumentation框架
 
 `Instrumentation框架`通过将主程序和测试程序运行在`同一个进程`来实现这些功能。Google针对Android的环境，扩展了业内标准的JUnit测试框架。
@@ -90,7 +91,10 @@ TDD
 
 -  [JaCoco 配置Demo](https://github.com/chenxiruanhai/Devops/tree/master/JaCoco-config-template)
 
+---
+
 ## 六、自动化
+
  - 所有测试应以自动化为主，无法自动化的测试用例，要人工完成。本人认为命令行工具的使用是自动化的基础，推荐阅读[为什么优秀的程序员喜欢命令行](http://www.jianshu.com/p/2a2e387ad268)。
  - 持续集成CI，保证代码集成到主干或发布到测试人员手中之前，必须通过自动化测试。只要有一个测试用例失败，就不能集成。
   - [Jenkins](https://jenkins.io/doc/)
@@ -98,6 +102,7 @@ TDD
   - [Codeship](https://www.codeship.io/)
   - [Strider](http://stridercd.com/)
 
+- ![](http://on-img.com/chart_image/598bd70ae4b020989e5b2681.png)
 
 ## 七、总结
  - 单元测试，所有测试方法中最接近源码实现的一种，但因Android系统的复杂性，不能完全的覆盖所有真实的case,需要结合其它测试方法共同协作提升软件质量。
